@@ -7,11 +7,19 @@ Please direct any questions or requests to Manuel Milling (milling.manuel@gmail.
 ## Citing
 If you use the in this repository in your research work, you are kindly asked to acknowledge the use in your publication.
 
-> M. Milling
+> Milling, Manuel, Alice Baird, Katrin D. Bartl-Pokorny, Shuo Liu, Alyssa M. Alcorn, Jie Shen, Teresa Tavassoli et al. "Evaluating the Impact of Voice Activity Detection on Speech Emotion Recognition for Autistic Children." Frontiers in Computer Science 4 (2022): 837269.
 
 Bibtex
 ```
-@{
+@ARTICLE{milling2022_vad-ser,
+AUTHOR={Milling, Manuel and Baird, Alice and Bartl-Pokorny, Katrin D. and Liu, Shuo and Alcorn, Alyssa M. and Shen, Jie and Tavassoli, Teresa and Ainger, Eloise and Pellicano, Elizabeth and Pantic, Maja and Cummins, Nicholas and Schuller, Björn W.},   
+TITLE={Evaluating the Impact of Voice Activity Detection on Speech Emotion Recognition for Autistic Children},      
+JOURNAL={Frontiers in Computer Science},      
+VOLUME={4},     
+YEAR={2022},      
+URL={https://www.frontiersin.org/article/10.3389/fcomp.2022.837269},       
+DOI={10.3389/fcomp.2022.837269},      
+ISSN={2624-9898},   
 }
 ```
 ## Overview
